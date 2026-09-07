@@ -67,8 +67,6 @@ This explainer makes that difference **tangible and falsifiable** through six in
 
 The interactive demo uses an **independent toy GRU model** implemented from scratch in pure JavaScript (`src/utils/latentModel.js`).
 
-**⚠️ This is NOT an official BDH or BDH-CQ model.** It is an independent illustration of the latent reasoning concept.
-
 Architecture:
 - Input encoding: 18-dimensional (9 grid cells × position + color)
 - Hidden state: 32-dimensional GRU
